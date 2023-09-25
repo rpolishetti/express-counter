@@ -1,7 +1,7 @@
 # express-counter
 
 ## Description
-A simple express app that shows user visit count on page when landed by storing its value in redis cache.
+A basic Express application that utilizes Redis caching to display the number of times a user has visited a page upon landing.
 
 ### Frameworks/Libraries
 ```
